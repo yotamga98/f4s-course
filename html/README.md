@@ -46,3 +46,4 @@ https://www.codecademy.com/learn/learn-html
 
 ## Tasks 
 Creating this page with HTML tags - ![HTML Exercises - Ivan Olivares CIS2336](https://sites.google.com/site/ivanolivarescis2336/_/rsrc/1336158929587/week-3-assignments/html-exercises/HTML_exercises.JPG)
+send your answer here - https://forms.gle/W8KJHaV5LdToaJaG6
