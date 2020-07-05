@@ -133,6 +133,8 @@ Presentation
 
 [https://docs.google.com/presentation/d/1ElZwo_ssXYZIdgaWxzENEXsq8E1rYvHzmBES8ciq5ok/edit#slide=id.p4](https://docs.google.com/presentation/d/1ElZwo_ssXYZIdgaWxzENEXsq8E1rYvHzmBES8ciq5ok/edit#slide=id.p4)
 
+[FREE reading web-fundamentals](https://fullstackopen.com/en/part0/fundamentals_of_web_apps)
+
 What do you need to know to be full stack developer
 
 [https://www.youtube.com/watch?v=SBB1YtwODT0&t=1s](https://www.youtube.com/watch?v=SBB1YtwODT0&t=1s)
@@ -197,4 +199,3 @@ Computers background
 
 [https://docs.google.com/forms/d/e/1FAIpQLSeB-l6ZEGxaE_LL8y3azeFp7_zEIxwvHy0XrUEzjBn01vAZRg/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSeB-l6ZEGxaE_LL8y3azeFp7_zEIxwvHy0XrUEzjBn01vAZRg/viewform?usp=sf_link)
 
-[FREE reading web-fundamentals](https://fullstackopen.com/en/part0/fundamentals_of_web_apps)
